@@ -1,5 +1,5 @@
 ## Hola 👋 
 
-**Can i Help u?*
+**¿Puedo ayudarte?*
 
 ###### This ~~exist~~ is to learn.

@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Visitor Count](https : //profile-counter.glitch.me/{kenhay82}/count.svg
+
+##### 🌱 I’m currently learning 
+##### 💬 Ask me about
 
 <!--
 **kenhay82/kenhay82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

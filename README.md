@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://profile-counter.glitch.me/{kenhay82}/count.svg)
+https://profile-counter.glitch.me/{kenhay82}/count.svg
 
 
 ##### 🌱 I’m currently learning 
